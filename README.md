@@ -62,7 +62,7 @@ The app listens continuously, converts speech to text in real time, and saves tr
 
 ```bash
 
-git clone https://github.com/your-username/continuous-voice-to-text.git
+git clone https://github.com/khadibd/continuous-voice-to-text
 
 
 
@@ -91,4 +91,5 @@ Khadija Bouadi
 &nbsp; Email: khadijabouadi00@gmail.com
 
 &nbsp; GitHub: khadibd
+
 
