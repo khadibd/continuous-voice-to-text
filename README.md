@@ -84,11 +84,13 @@ pip install SpeechRecognition pyaudio
 
 
 
-Author
+Author :
 
-Eng.Khadija Bouadi
-    Email: khadijabouadi00@gmail.com
-    GitHub: khadibd
+Eng. Khadija Bouadi
+Email: khadijabouadi00@gmail.com
+GitHub: khadibd
+
+
 
 
 
