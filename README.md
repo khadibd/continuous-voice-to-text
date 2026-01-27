@@ -1,4 +1,4 @@
-\# 🎤 Continuous Voice-to-Text Application
+# 🎤 Continuous Voice-to-Text Application
 
 
 
@@ -12,41 +12,21 @@ The app listens continuously, converts speech to text in real time, and saves tr
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
-\- 🎙️ Continuous real-time speech recognition
+- 🎙️ Continuous real-time speech recognition
 
-\- ⚡ Low-latency transcription
+- ⚡ Low-latency transcription
 
-\- 🖥️ Simple and clean GUI using Tkinter
+- 🖥️ Simple and clean GUI using Tkinter
 
-\- 🇫🇷 French language support (`fr-FR`)
+- 🇫🇷 French language support (`fr-FR`)
 
-\- 💾 Automatic saving of transcriptions to a text file
+- 💾 Automatic saving of transcriptions to a text file
 
-\- 🧵 Multithreaded (UI stays responsive)
-
-
-
----
-
-
-
-\## 🛠️ Technologies Used
-
-
-
-\- Python 3
-
-\- Tkinter (GUI)
-
-\- SpeechRecognition
-
-\- Google Speech API
-
-\- Threading
+- 🧵 Multithreaded (UI stays responsive)
 
 
 
@@ -54,27 +34,51 @@ The app listens continuously, converts speech to text in real time, and saves tr
 
 
 
-\## 📦 Installation
+## 🛠️ Technologies Used
 
 
 
-1\. Clone the repository:
+- Python 3
+
+- Tkinter (GUI)
+
+- SpeechRecognition
+
+- Google Speech API
+
+- Threading
+
+
+
+---
+
+
+
+## 📦 Installation
+
+
+---
+
+
+1. Clone the repository:
 
 ```bash
 
 git clone https://github.com/khadibd/continuous-voice-to-text
 ```
 
+---
 
-2\. Navigate to the project folder:
+2. Navigate to the project folder:
 
 ```bash
 
 cd continuous-voice-to-text
 ```
 
+---
 
-3\. Install dependencies:
+3. Install dependencies:
 
 ```bash
 
@@ -84,11 +88,21 @@ pip install SpeechRecognition pyaudio
 
 
 
-Author :
+---
+
+### 👩‍💻 Author
 
 Eng. Khadija Bouadi
-Email: khadijabouadi00@gmail.com
-GitHub: khadibd
+
+
+### 📧 Contact
+
+For any queries, reach out to:
+
+GitHub: @khadibd
+
+Email: khadibd00@gmail.com
+
 
 
 
