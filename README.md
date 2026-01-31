@@ -2,7 +2,7 @@
 
 
 
-A fast and reliable \*\*continuous speech-to-text desktop application\*\* built with \*\*Python\*\*, \*\*Tkinter\*\*, and \*\*SpeechRecognition\*\*.  
+A fast and reliable continuous speech-to-text desktop application built with Python, Tkinter, and SpeechRecognition.  
 
 The app listens continuously, converts speech to text in real time, and saves transcriptions with timestamps.
 
@@ -102,6 +102,7 @@ For any queries, reach out to:
 GitHub: @khadibd
 
 Email: khadibd00@gmail.com
+
 
 
 
